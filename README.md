@@ -1,1 +1,1 @@
-# ma-lumotlar
+# ma'lumotlar
